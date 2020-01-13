@@ -1,6 +1,6 @@
 package tutorialMikeDane;
 
-public class Tutorial1_HelloWorld {
+public class Tutorial01_HelloWorld {
 
 	public static void main(String[] args) {
 		

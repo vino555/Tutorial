@@ -2,7 +2,7 @@ package tutorialMikeDane;
 
 import java.util.Scanner;
 
-public class Tutorial7_IO {
+public class Tutorial07_IO {
 
 	public static void main(String[] arg) {
 		

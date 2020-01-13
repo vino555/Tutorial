@@ -2,7 +2,7 @@ package tutorialMikeDane;
 
 import java.util.Scanner;
 
-public class Tutorial9_MadLibsGame {
+public class Tutorial09_MadLibsGame {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

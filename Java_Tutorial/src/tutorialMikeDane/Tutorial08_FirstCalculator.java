@@ -2,7 +2,7 @@ package tutorialMikeDane;
 
 import java.util.Scanner;
 
-public class Tutorial8_FirstCalculator {
+public class Tutorial08_FirstCalculator {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

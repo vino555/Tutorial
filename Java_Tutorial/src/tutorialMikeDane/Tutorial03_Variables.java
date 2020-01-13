@@ -1,6 +1,6 @@
 package tutorialMikeDane;
 
-public class Tutorial3_Variables {
+public class Tutorial03_Variables {
 	
 	public static void main(String[] args) {
 		

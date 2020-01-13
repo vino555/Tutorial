@@ -1,6 +1,6 @@
 package tutorialMikeDane;
 
-public class Tutorial4_DataTypes {
+public class Tutorial04_DataTypes {
 	
 	public static void main(String[] args) {
 		
